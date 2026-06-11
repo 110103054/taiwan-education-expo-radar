@@ -57,7 +57,7 @@ export FEISHU_APP_SECRET="your-app-secret"
 ```bash
 python3 scripts/feishu_sync.py \
   --config config/feishu-sync-config.json \
-  --data assets/feishu-expo-data.example.json
+  --data assets/feishu-expo-data.json
 ```
 
 同步會依活動名稱更新資料，並保留飛書中的 `是否參展`、`負責人`、`預算`、`內部備註`。
