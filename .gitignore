@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+
+config/feishu-sync-config.json
+config/*private*.json
+feishu-private-config.json
+
+work/
+tmp/

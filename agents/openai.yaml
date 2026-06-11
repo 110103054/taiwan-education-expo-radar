@@ -1,0 +1,4 @@
+interface:
+  display_name: "台灣兒童教育展會雷達"
+  short_description: "搜尋台灣教育、童書、親子與教育科技展會並更新追蹤表"
+  default_prompt: "Use $taiwan-education-expo-radar to find and update upcoming Taiwan education-related exhibitions."

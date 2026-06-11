@@ -1,0 +1,16 @@
+{
+  "app_id": "",
+  "app_secret": "",
+  "spreadsheet_url": "",
+  "spreadsheet_token": "",
+  "sheet_id": "",
+  "sheet_name": "展會追蹤",
+  "webhook_url": "",
+  "read_range": "A1:AZ500",
+  "preserved_columns": [
+    "是否參展",
+    "負責人",
+    "預算",
+    "內部備註"
+  ]
+}
